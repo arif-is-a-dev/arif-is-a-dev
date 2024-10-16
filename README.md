@@ -1,1 +1,20 @@
-- 👋 Hi, I’m arif raharjo
+Hi, I’m arif raharjo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PEMULA HEHEHEEHEHEHHEHE
