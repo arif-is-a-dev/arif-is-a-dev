@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, I'm Arif Raharjo</h1>
-<h3 align="center">Web Development Enthusiast</h3>
+<h3 align="center">IT Enthusiast</h3>
 
 - 🌱 I’m currently learning **Python and C**
 
 
-- ⚡ Fun fact **I Think Im Funnyy :P**
+- ⚡ Fun fact **I Think Im Cutee :P**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/albilal-bintang-iskandar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albilal-bintang-999655273" height="30" width="40" /></a>
-<a href="https://instagram.com/albilalbintang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albilalbintang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arif-raharjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albilal-bintang-999655273" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__aariif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albilalbintang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
